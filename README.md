@@ -1,7 +1,6 @@
-aquajs
+neo-aqua
 ====================================
-The Friendly & Fun Javascript Fullstack Framework for your next API/Web/Mobile/IOT/Wearables application.
-It is designed to give you a quick and organized way to start developing an application. We mainly try to take care of the connection points between existing popular frameworks and solve common integration problems.
+
 
 ## Key drivers:
 
